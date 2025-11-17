@@ -15,7 +15,7 @@ Software Engineer💻|Dedicated to solving complex problems with simple solution
 ---
 [![](https://visitcount.itsvg.in/api?id=Vrindak2311&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **vrindak2311/vrindak2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
