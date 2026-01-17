@@ -3,10 +3,14 @@ Software Engineer💻|Dedicated to solving complex problems with simple solution
 
 
 ## 🌐 Socials:
-## 🤝 Connect With Me
-- 📧 **Email:** [vrinda680@gmail.com](mailto:vrinda680@gmail.com)
-- 💼 **LinkedIn:** https://www.linkedin.com/in/Vrinda-Khandelwal
-
+<p align="left">
+  <a href="mailto:vrindakhandelwal006@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vrinda-khandelwal-46a730322">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
 
  
 
