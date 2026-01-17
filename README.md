@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+</p>
+
 # 💫 About Me:
 Software Engineer💻|Dedicated to solving complex problems with simple solutions<br>
 
