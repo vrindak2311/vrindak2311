@@ -8,7 +8,6 @@ Software Engineer💻|Dedicated to solving complex problems with simple solution
 
 
 ## 🌐 Socials:
-<p align="left">
   <p align="left">
   <a href="mailto:vrindakhandelwal006@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
