@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180"/>
 </p>
+
 
 # 💫 About Me:
 Software Engineer💻|Dedicated to solving complex problems with simple solutions<br>
