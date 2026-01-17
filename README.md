@@ -3,14 +3,10 @@ Software Engineer💻|Dedicated to solving complex problems with simple solution
 
 
 ## 🌐 Socials:
-<p align="left">
-  <a href="mailto:vrindakhandelwal006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-username">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+## 🤝 Connect With Me
+- 📧 **Email:** [vrindakhandelwal006@gmail.com](mailto:vrindakhandelwal006@gmail.com)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/vrinda-khandelwal
+
 
  
 
