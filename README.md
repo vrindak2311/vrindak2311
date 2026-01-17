@@ -3,8 +3,15 @@ Software Engineer💻|Dedicated to solving complex problems with simple solution
 
 
 ## 🌐 Socials:
-- 📧 **Email:** [your.email@example.com](mailto:vrindakhandelwal006@gmail.com)
-- 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/Vrinda%20Khandelwal)
+<p align="left">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
  
 
 # 💻 Tech Stack:
