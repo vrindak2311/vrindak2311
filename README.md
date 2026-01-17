@@ -1,5 +1,7 @@
+<h1 align="center">Hi 👋, I'm Vrinda</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="180"/>
 </p>
 
 
