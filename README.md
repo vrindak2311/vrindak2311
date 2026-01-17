@@ -11,9 +11,12 @@ Software Engineer💻|Dedicated to solving complex problems with simple solution
 <p align="left">
   <a href="mailto:vrindakhandelwal006@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email"/>
+    &nbsp;Email
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vrinda-khandelwal-46a730322">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+    &nbsp;LinkedIn
   </a>
 </p>
 
