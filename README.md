@@ -8,16 +8,7 @@ Software Engineer💻|Dedicated to solving complex problems with simple solution
 
 
 ## 🌐 Socials:
- <p align="left">
-  <a href="mailto:vrindakhandelwal006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%20-%23D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vrinda-khandelwal-46a730322">
-    <img src="https://img.shields.io/badge/LinkedIn-%20-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vrinda-khandelwal-46a730322) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vrinda680@gmail.com) 
 
  
 
